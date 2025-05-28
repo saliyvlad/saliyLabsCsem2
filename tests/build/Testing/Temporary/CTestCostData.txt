@@ -1,3 +1,0 @@
-TestSorting 0 0
----
-TestSorting
