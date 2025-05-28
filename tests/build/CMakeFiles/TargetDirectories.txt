@@ -1,0 +1,4 @@
+/home/saliy/proga2sem/tests/build/CMakeFiles/test_sorting.dir
+/home/saliy/proga2sem/tests/build/CMakeFiles/test.dir
+/home/saliy/proga2sem/tests/build/CMakeFiles/edit_cache.dir
+/home/saliy/proga2sem/tests/build/CMakeFiles/rebuild_cache.dir

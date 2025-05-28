@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -g CMakeFiles/test_sorting.dir/sorting.c.o CMakeFiles/test_sorting.dir/unit_tests.c.o -o test_sorting  -lcmocka 
