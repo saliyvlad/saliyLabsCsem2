@@ -1,4 +1,0 @@
-/home/saliy/proga2sem/rgr/build/CMakeFiles/matrix_inverse.dir
-/home/saliy/proga2sem/rgr/build/CMakeFiles/matrix_lib.dir
-/home/saliy/proga2sem/rgr/build/CMakeFiles/edit_cache.dir
-/home/saliy/proga2sem/rgr/build/CMakeFiles/rebuild_cache.dir
